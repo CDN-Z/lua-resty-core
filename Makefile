@@ -1,4 +1,4 @@
-OPENRESTY_PREFIX=/usr/local/openresty
+OPENRESTY_PREFIX=/usr/local/cdnz
 
 #LUA_VERSION := 5.1
 PREFIX ?=          /usr/local
